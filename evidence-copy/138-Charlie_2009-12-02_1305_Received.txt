@@ -1,0 +1,48 @@
+Subject:
+Undelivered Mail Returned to Sender
+From:
+MAILER-DAEMON (Mail Delivery System)
+Date:
+Wed, 2 Dec 2009 13:05:07 -0800 (PST)
+To:
+charlie@m57.biz
+
+This is the Spam & Virus Firewall at mustang.nps.edu.
+
+I'm sorry to inform you that the message below could not be delivered.
+When delivery was attempted, the following error was returned.
+
+
+<jaime@project2400.com>: host mx2.sub3.homie.mail.dreamhost.com[208.97.132.222]
+    said: 550 5.1.1 <jaime@project2400.com>: Recipient address rejected: User
+    unknown in virtual alias table (in reply to RCPT TO command)
+
+
+
+Reporting-MTA: dns; mustang.nps.edu
+Arrival-Date: Wed,  2 Dec 2009 13:05:05 -0800 (PST)
+
+Final-Recipient: rfc822; jaime@project2400.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Spam-&-Virus-Firewall; host
+    mx2.sub3.homie.mail.dreamhost.com[208.97.132.222] said: 550 5.1.1
+    <jaime@project2400.com>: Recipient address rejected: User unknown in
+    virtual alias table (in reply to RCPT TO command)
+
+
+
+Subject:
+Interested?
+From:
+Charlie <charlie@m57.biz>
+Date:
+Wed, 02 Dec 2009 13:04:29 -0800
+To:
+jaime@project2400.com
+
+J,
+
+I have something that you'll definitely be interested in.  It concerns your competitor.  I'm doing a prior art search for them.  Want to know what I've found?  You know my price.  I'll send you the goods after I see half in my account.  Make sure you delete this email.
+
+C

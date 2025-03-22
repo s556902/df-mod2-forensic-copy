@@ -1,0 +1,17 @@
+Subject:
+New Project
+From:
+"Pat McGoo" <pat@m57.biz>
+Date:
+Wed, 2 Dec 2009 13:52:39 -0800
+To:
+<charlie@m57.biz>, <jo@m57.biz>
+
+Jo, Charlie,
+ 
+    have you had a chance to start looking at that quantum cryptography project?  I've found a few things so far - may be a harder nut to crack than I had originally thought. 
+ 
+    I want to wrap this one up before the end of the calendar year.  One of you will need to take it, if not both, so let me know how your workload in going in general.
+ 
+Thanks
+Pat
