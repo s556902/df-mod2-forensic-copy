@@ -1,7 +1,7 @@
 # df-mod2-forensic-copy
 copy-evidence.ps1 copies all files from the evidence directory into evidence-copy, also writing the original files hashes into evidence-hashes, creating both of these directories if needed. While copying files, the script will compare hashes of each original and copy, ensuring that copying has completed successfully without introducing any errors.
 
-#Sample files
+# Sample files
 100-Charlie_2009-11-20_0957_Received_99202.ComplexityTheory.Louisa+Fleet.pdf
 Original SHA256: B7A3D787EA43538ECA5A2B4B36455875D2C38D325D358B0E3D37B00D2E0AC0F5
 Copied SHA256:   B7A3D787EA43538ECA5A2B4B36455875D2C38D325D358B0E3D37B00D2E0AC0F5
